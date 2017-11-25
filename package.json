@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "testbot",
+  "scripts": {
+    "test": "testbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testbot"
+  },
+  "keywords": [
+    "testbot"
+  ],
+  "author": "simone",
+  "license": "SEE LICENSE IN <testbot>",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "restify": "^6.3.4"
+  }
+}
